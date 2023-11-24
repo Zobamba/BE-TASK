@@ -15,7 +15,7 @@ You need Mongodb installed and running on your computer. Also setup Mongodb Atla
 
 # Usage
 
-1. git clone git@github.com:Zobamba/HNG-backend-task-two.git
+1. git clone git@github.com:Zobamba/BE-TASK.git
 2. cd BE-TASK
 3. npm install
 4. npm start
