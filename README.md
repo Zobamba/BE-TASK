@@ -45,6 +45,6 @@ You need Mongodb installed and running on your computer. Also setup Mongodb Atla
 ```
  username = d1b65fc7debc3361ea86b5f14c68d2e2
  password =  13844
- :id = 655f7d657d034100dfd80c41 >>> use this id for the DELETE action
+ :id = 655f7cca7d034100dfd75c11 >>> use this id for the DELETE action: you can get more Ids
 ```
  
